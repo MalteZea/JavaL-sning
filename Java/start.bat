@@ -1,0 +1,2 @@
+java Welcome.java
+pause
